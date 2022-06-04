@@ -7,7 +7,9 @@ Android Mobile Application that helps the user to record his/her planned trips w
   
 # Developed By
   Arnab Kumar Saha
+  
   B.Sc In Computer Science & Engineering
+  
   United International University
 
 # Featurs 
